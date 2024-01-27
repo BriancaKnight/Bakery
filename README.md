@@ -13,7 +13,7 @@
 
 ## Description
 
-This webpage acts as a profile to showcase my programming skills. Its sections include an about me, projects, skills, and resume sections. 
+An virtual bakery where a user can buy an unlimited ammount of bread or pastries! Make your selection and find out how much you owe. 
 
 ## Setup/Installation Requirements
 
